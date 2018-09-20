@@ -1,4 +1,4 @@
-package Java_1_4;
+package one_Foundation.Java_1_4;
 
 public class Ex19 {
     public void matrix_min(int[][] a, int N) {

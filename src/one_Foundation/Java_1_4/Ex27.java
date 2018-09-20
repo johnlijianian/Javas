@@ -1,7 +1,5 @@
-package Java_1_4;
+package one_Foundation.Java_1_4;
 
-import java.util.ArrayDeque;
-import java.util.Queue;
 import java.util.Stack;
 
 public class Ex27 {

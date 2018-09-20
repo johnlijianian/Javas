@@ -1,4 +1,4 @@
-package Java_1_4;
+package one_Foundation.Java_1_4;
 
 public class Ex20 {
     public static int bothway(int[] a, int find) {

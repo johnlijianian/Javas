@@ -1,4 +1,4 @@
-package Java_1_4;
+package one_Foundation.Java_1_4;
 
 public class Ex25 {
     static int max(int a, int b) { return (a > b)? a: b; }

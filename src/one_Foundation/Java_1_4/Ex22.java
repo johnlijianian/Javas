@@ -1,4 +1,4 @@
-package Java_1_4;
+package one_Foundation.Java_1_4;
 
 public class Ex22 {
     public final static int MAXSIZE = 20;

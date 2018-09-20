@@ -1,4 +1,4 @@
-package Java_1_4;
+package one_Foundation.Java_1_4;
 
 public class Ex18 {
     public static int local_minimum(int[] a) {
