@@ -3,6 +3,7 @@ package Java_1_4;
 import java.util.Stack;
 
 public class Ex31 {
+    //
     static class twoWayQueue{
         Stack<Integer> stack1 = new Stack<>();
         Stack<Integer> stack2 = new Stack<>();
