@@ -1,5 +1,7 @@
 package one_Foundation.Java_1_5;
 
+import javafx.scene.Parent;
+
 public class Ex13 {
     private int [] sz ;
     private int [] id ;
@@ -26,9 +28,10 @@ public class Ex13 {
             pParent=id[pParent];
         }
 
-        while(id[p]!= p){
-            p=id[p];
-            id[p]=pParent;
+        while(pParent != p){
+            int newp = id[p];
+            id[p] = pParent;
+            p = newp;
         }
 
         return pParent;
