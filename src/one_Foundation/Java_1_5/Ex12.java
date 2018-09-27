@@ -23,7 +23,7 @@ public class Ex12 {
                 pParent = id[pParent];
             while (p != id[p]) {
                 p = id[p];
-                id[p] = pParent
+                id[p] = pParent;
             }
             return p;
         }
